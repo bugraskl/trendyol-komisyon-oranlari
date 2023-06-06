@@ -1,2 +1,2 @@
 # trendyol-komisyon-oranlari
-Trendyol Komisyon Oranları 6.6.2023
+6 Haziran 2023 Kategorilere göre trendyol komisyon oranları json dosyası
